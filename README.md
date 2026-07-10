@@ -72,3 +72,4 @@ $$\tau = 2.94 \times 0.1 = 0.294\text{ N}\cdot\text{m}$$
 ##  Repository Structure
 * Tinkercad_Robot_Design.png: A single comprehensive screenshot of the robot dog design created within Tinkercad.
 * Mechanical_Design_Analysis.png: The comprehensive infographic diagram showcasing the layout, summary report, joint configurations, and torque calculations.
+* * ingenious_Wluff.stl: The 3D file format of the robot dog model.
